@@ -1,0 +1,16 @@
+h1{
+    border: 2px solid rgb(rgb(243, 8, 8), green, blue);
+}
+body{
+    background-color: bisque;
+}
+#place{
+    color: aqua;
+}
+.status{
+    text-align: center;
+    color: brown;
+}
+form button{
+    color: red;
+}
